@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\bin\Debug\netstandard2.1\RoyalFilms.Infraestructure.deps.json
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\bin\Debug\netstandard2.1\RoyalFilms.Infraestructure.dll
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\bin\Debug\netstandard2.1\RoyalFilms.Infraestructure.pdb
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\bin\Debug\netstandard2.1\RoyalFilms.Core.dll
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\bin\Debug\netstandard2.1\RoyalFilms.Core.pdb
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.dll
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Infraestructure\obj\Debug\netstandard2.1\RoyalFilms.Infraestructure.pdb

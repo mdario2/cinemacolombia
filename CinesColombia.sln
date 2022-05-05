@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalFilms.Api", "RoyalFilms.Api\RoyalFilms.Api.csproj", "{2397F3FC-3A11-4297-B639-4609AA6EAA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalFilms.Core", "RoyalFilms.Core\RoyalFilms.Core.csproj", "{2C99A293-26DC-46A9-A22D-EABAF35E7008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalFilms.Infraestructure", "RoyalFilms.Infraestructure\RoyalFilms.Infraestructure.csproj", "{5FCBCBB7-0565-410B-B2A1-5A8ED9D4ABBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7D1B4ED4-A337-4163-8821-652515359A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalFilms.UnitTests", "RoyalFilms.UnitTests\RoyalFilms.UnitTests.csproj", "{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalFilms.IntegrationTests", "RoyalFilms.IntegrationTests\RoyalFilms.IntegrationTests.csproj", "{EBC3EEF4-391F-4F03-838E-A749B8B064F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2397F3FC-3A11-4297-B639-4609AA6EAA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2397F3FC-3A11-4297-B639-4609AA6EAA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2397F3FC-3A11-4297-B639-4609AA6EAA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2397F3FC-3A11-4297-B639-4609AA6EAA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C99A293-26DC-46A9-A22D-EABAF35E7008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C99A293-26DC-46A9-A22D-EABAF35E7008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C99A293-26DC-46A9-A22D-EABAF35E7008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C99A293-26DC-46A9-A22D-EABAF35E7008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCBCBB7-0565-410B-B2A1-5A8ED9D4ABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCBCBB7-0565-410B-B2A1-5A8ED9D4ABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCBCBB7-0565-410B-B2A1-5A8ED9D4ABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCBCBB7-0565-410B-B2A1-5A8ED9D4ABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC3EEF4-391F-4F03-838E-A749B8B064F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC3EEF4-391F-4F03-838E-A749B8B064F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC3EEF4-391F-4F03-838E-A749B8B064F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC3EEF4-391F-4F03-838E-A749B8B064F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BE3C81C-8F47-4FBC-9808-25C2F630D5A2} = {7D1B4ED4-A337-4163-8821-652515359A67}
+		{EBC3EEF4-391F-4F03-838E-A749B8B064F1} = {7D1B4ED4-A337-4163-8821-652515359A67}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF0DA9F-1929-4F69-8F99-79DCC57FA2F2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\bin\Release\netstandard2.1\RoyalFilms.Core.deps.json
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\bin\Release\netstandard2.1\RoyalFilms.Core.dll
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\bin\Release\netstandard2.1\RoyalFilms.Core.pdb
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.dll
+C:\Users\ASUS\source\repos\CinesColombia\RoyalFilms.Core\obj\Release\netstandard2.1\RoyalFilms.Core.pdb
